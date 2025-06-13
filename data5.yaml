@@ -1,0 +1,4 @@
+train: data_images5/train
+val: data_images5/test
+nc: 9
+names: ['Handgun', 'Knife', 'Automatic-Rifle', 'Sword', 'Grenade-Launcher', 'Sniper', 'SMG', 'Bazooka', 'Shotgun']
